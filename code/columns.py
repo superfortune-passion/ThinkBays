@@ -84,3 +84,4 @@ def make_object(row, names, constructor):
     obj.clean()
     return obj
 
+# history-sync-246
