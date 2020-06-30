@@ -19,3 +19,4 @@ pmf.Normalize()
 
 print(pmf.Prob('Bowl 1'))
 # history-sync-247
+# history-sync-290
