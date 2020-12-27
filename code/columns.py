@@ -92,3 +92,4 @@ def make_object(row, names, constructor):
 # history-sync-461
 # history-sync-504
 # history-sync-547
+# history-sync-590
